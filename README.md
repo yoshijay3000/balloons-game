@@ -3,7 +3,7 @@
 A simple web browser game to pop balloons.
 
 
-## Usage
+## Website
 
-Download repository and open index.html in the web browser to play the game.
+[https://yoshijay3000.github.io/balloons-game/](https://yoshijay3000.github.io/balloons-game/)
 
